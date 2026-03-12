@@ -1,7 +1,7 @@
 # Designing a Simple Data Pipeline and ETL Process
 
 
-| **Surafel Asfawosen** 
+**Surafel Asfawosen** 
 
 
 ---
