@@ -1,16 +1,8 @@
 # Designing a Simple Data Pipeline and ETL Process
 
-## Group Members
 
-| Name                  | Student ID    | Role/Notes             |
-|----------------------|--------------|-----------------------|
-| **Surafel Asfawosen** | DBU1501482   | Team Lead             |
-| **Nardos Mola**       | DBU1501397   | Data Cleaning         |
-| **Ephrata Yeshaneh**  | DBU1501631   | Data Transformation   |
-| **Bethlehem Asres**   | DBU1501062   | Database Integration  |
-| **Besufekad Ayalkbet**| DBU1501050   | ETL Implementation    |
-| **Beiment Yealmbirhan** | DBU1501024 | Testing & Validation  |
-| **Yonatan Kiros**     | DBU1501656   | Documentation         |
+| **Surafel Asfawosen** 
+
 
 ---
 
